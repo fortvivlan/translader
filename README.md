@@ -4,6 +4,13 @@
 
 Translader is a very simple GUI program which can interactively look up for Google translations while reading texts.
 
+### How to run it
+
+You have to have Python (presumably it must be version 3.8, though I haven't checked) and all packages under Dependencies. Open console in the folder with 'translader.py' and run the following:
+
+    python translader.py
+    
+
 ### Dependencies:
 
     pip install beautifulsoup4
