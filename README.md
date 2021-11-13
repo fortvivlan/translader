@@ -6,13 +6,10 @@ Translader is a very simple GUI program which can interactively look up for Goog
 
 ### Dependencies:
 
-pip install beautifulsoup4
-
-pip install EbookLib
-
-pip install googletrans==3.1.0a0
-
-pip install pdfminer.six
+    pip install beautifulsoup4
+    pip install EbookLib
+    pip install googletrans==3.1.0a0
+    pip install pdfminer.six
 
 
 ### What it can
